@@ -1,0 +1,161 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  
+}
+header {
+    text-align: center;
+    padding: 20px;
+   
+}
+h1 {
+    margin-bottom: 0;
+}
+section {
+    padding: 30px;
+    text-align: center;
+}
+.testimonial {
+    background-color: #f8f8f8; 
+    color: #333;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+.testimonial p {
+    margin: 10px 0;
+}
+.testimonial-author {
+    font-style: italic;
+    color: #555; /* Dark grey color for author */
+}
+.donate-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background: #007bff; /* Blue color */
+    color: #fff; /* White text */
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    transition: background 0.3s ease;
+    margin-top: 20px;
+}
+.donate-button:hover {
+    background: #ccc; 
+}
+.apply-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background: #28a745; 
+    color: #fff; 
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    transition: background 0.3s ease;
+    margin-top: 20px;
+}
+.apply-button:hover {
+    background: #218838; 
+}
+.about-organization {
+    margin-top: 40px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+
+
+  body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+
+  }
+  .apply-button {
+      display: inline-block;
+      padding: 15px 30px;
+      background: #007bff; /* Blue color */
+      color: #fff; /* White text */
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 18px;
+      transition: background 0.3s ease;
+  }
+  .apply-button:hover {
+      background: #ccc; /* Slightly darker grey on hover */
+  }
+  
+  body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+  }
+  header {
+      text-align: center;
+      padding: 20px;
+  }
+  h1 {
+      margin-bottom: 0;
+  }
+  section {
+      padding: 30px;
+      text-align: left;
+  }
+  .company-intro {
+      margin-bottom: 20px;
+  }
+  .team-members {
+      margin-top: 20px;
+  }
+  .team-member {
+      margin-bottom: 20px;
+  }
+  .team-member h3 {
+      color: #007bff; 
+      margin-bottom: 5px;
+  }
+  .team-member p {
+      margin: 0;
+  }
+  .core-values {
+      margin-top: 30px;
+  }
+  .contributions {
+      margin-top: 30px;
+  }
+  .apply-button {
+      display: inline-block;
+      padding: 15px 30px;
+      background: #007bff;
+      color: #fff; 
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 18px;
+      transition: background 0.3s ease;
+      margin-top: 20px;
+  }
+  .apply-button:hover {
+      background: #0056b3; 
+  }
+  table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+  }
+  th, td {
+      border: 1px solid #ddd;
+      padding: 12px;
+      text-align: left;
+  }
+  th {
+      background-color: #007bff; 
+      color: #fff;
+  }
